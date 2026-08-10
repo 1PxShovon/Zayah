@@ -1,0 +1,11 @@
+users/
+providers/
+technicians/
+services/
+categories/
+bookings/
+orders/
+payments/
+notifications/
+advertisements/
+commissions/

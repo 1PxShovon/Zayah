@@ -1,0 +1,13 @@
+REQUESTED
+   ↓
+ACCEPTED
+   ↓
+CONFIRMED
+   ↓
+ASSIGNED
+   ↓
+IN_PROGRESS
+   ↓
+COMPLETED
+   ↓
+PAID
